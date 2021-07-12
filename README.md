@@ -30,7 +30,7 @@ Watch the [Cool Writings video tour](https://www.youtube.com/watch?v=IgjJYfVF26Q
 **1. Create a new site** cloning the repo and removing the origin repo.
 
 ```
-git clone git@github.com:statamic/statamic-starter-cool-writings.git cool-site
+git clone https://github.com/statamic/statamic-starter-cool-writings.git cool-site
 cd cool-site
 rm -rf .git
 composer install
